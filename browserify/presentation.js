@@ -55,5 +55,9 @@ module.exports = function (str) {
 // $ watchify <infile> -v -o <outfile>
 // $ watchify <infile> -t brfs -o <outfile>
 
+// Tape
+// $ npm install tape
+// $ node <testfile>
+
 
 // http://git.uggedal.com/presentations/tree/browserify

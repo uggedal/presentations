@@ -77,7 +77,8 @@ module.exports = function (str) {
 
 // More
 // ----
-// https://github.com/substack/browserify-handbook
+// * http://nodejs.org/docs/latest/api/modules.html
+// * https://github.com/substack/browserify-handbook
 
 
 // Slides

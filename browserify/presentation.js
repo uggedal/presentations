@@ -69,4 +69,10 @@ module.exports = function (str) {
 // $ browserify <testfile> | testling -x <browser>
 
 
+// Coverify
+// --------
+// $ npm install coverify
+// $ browserify <testfile> -t coverify | testling | coverify
+
+
 // http://git.uggedal.com/presentations/tree/browserify

@@ -1,6 +1,6 @@
 #!/bin/sh
 
-rm -r huge
+rm -rf huge
 mkdir -p huge
 
 n=500

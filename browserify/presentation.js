@@ -55,11 +55,15 @@ module.exports = function (str) {
 // $ watchify <infile> -v -o <outfile>
 // $ watchify <infile> -t brfs -o <outfile>
 
+
 // Tape
+// ----
 // $ npm install tape
 // $ node <testfile>
 
+
 // Testling
+// --------
 // $ npm install testling
 // $ browserify <testfile> | testling
 // $ browserify <testfile> | testling -x <browser>

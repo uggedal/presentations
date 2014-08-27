@@ -75,4 +75,11 @@ module.exports = function (str) {
 // $ browserify <testfile> -t coverify | testling | coverify
 
 
+// More
+// ----
+// https://github.com/substack/browserify-handbook
+
+
+// Slides
+// ------
 // http://git.uggedal.com/presentations/tree/browserify

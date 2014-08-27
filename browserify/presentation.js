@@ -77,9 +77,20 @@ module.exports = function (str) {
 
 // More
 // ----
-// * source-maps (browserify -d)
-// * http://nodejs.org/docs/latest/api/modules.html
-// * https://github.com/substack/browserify-handbook
+// * more transforms:
+//   https://github.com/substack/node-browserify/wiki/list-of-transforms
+// * source-maps (browserify --debug)
+// * package.json integration
+// * module philosophy
+// * avoiding relative imports (../../../../../)
+//   - use node_modules with .gitignore
+//   - use symlink
+// * optimization
+//   - npm dedupe
+//   - browserify --list
+// * partitioning
+//   - factor-bundle (for multi-page)
+//   - partition-bundle (for single-page)
 
 
 // Slides

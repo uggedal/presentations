@@ -77,6 +77,7 @@ module.exports = function (str) {
 
 // More
 // ----
+// * source-maps (browserify -d)
 // * http://nodejs.org/docs/latest/api/modules.html
 // * https://github.com/substack/browserify-handbook
 

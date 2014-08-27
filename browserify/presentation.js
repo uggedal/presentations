@@ -54,3 +54,6 @@ module.exports = function (str) {
 // $ watchify <infile> -o <outfile>
 // $ watchify <infile> -v -o <outfile>
 // $ watchify <infile> -t brfs -o <outfile>
+
+
+// http://git.uggedal.com/presentations/tree/browserify

@@ -34,3 +34,14 @@ var uppercase = require('./uppercase');
 module.exports = function (str) {
   return trim(uppercase(str));
 };
+
+
+// Browserify
+// ----------
+
+// $ npm install browserify
+// $ browserify <infile>
+
+// Transforms:
+// $ npm install brfs
+// $ browserify -t brfs <infile>

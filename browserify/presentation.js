@@ -45,3 +45,12 @@ module.exports = function (str) {
 // Transforms:
 // $ npm install brfs
 // $ browserify -t brfs <infile>
+
+
+// Watchify
+// --------
+
+// $ npm install watchify
+// $ watchify <infile> -o <outfile>
+// $ watchify <infile> -v -o <outfile>
+// $ watchify <infile> -t brfs -o <outfile>

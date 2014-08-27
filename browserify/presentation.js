@@ -10,7 +10,7 @@ var trimupper = function (str) {
 };
 export default trimupper
 
-// requirejs:
+// requirejs amd:
 define(['trim', 'uppercase'], function (trim, uppercase) {
   return function (str) {
     return trim(uppercase(str));

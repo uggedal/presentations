@@ -1,0 +1,49 @@
+* hype
+  * tatt helt av
+  * enabler clueless utviklere til å gjøre enda større skade
+* historie (nevn årstall)
+  * ibm something
+  * freebsd jails
+  * solaris zones
+  * linux kernel support (kernel versjon for hver feature pluss år)
+    * namespaces
+      * hvorfor google implementerte det (effektivitet, ikke sikkerhet)
+    * ...
+  * lxc
+  * unshare
+  * docker
+  * mange lettvekst containere
+* vis min minimale implementasjon (mer generisk)
+* sikkerhet
+  * antall kernel kodelinjer (og økning per release)
+  * namespaces etc kladdet på
+  * list relevante kernel CVE
+  * multi-tenant trenger vm uansett (google cloud etc))
+  * håndtering av sikekrhetsoppdateringer i container ikke løst
+    * vanskeligere enn før
+    * skal drift rebygge containere for deg?
+* open source
+  * bidro tidlig da ting var mer eller mindre community drevet
+  * for profit
+  * hype^2
+  * klarer ikke å ta imot bidrag/bug rapporter/innspill
+  * coreos/rocket/containers spec drama
+* bruk
+  * same shit, different wrapping
+  * --privileged=true
+  * python pid 1? wtf!
+  * XMB ubuntu base image
+    * alpine
+    * buildroot
+    * ...
+* behov
+  * JVM: "Write once, run anywhere"?
+* fyll inn med (og referer)
+  * http://www.boycottdocker.org/
+  * http://sirupsen.com/production-docker/
+  * https://www.andreas-jung.com/contents/the-case-against-docker
+  * http://iops.io/blog/docker-hype/
+  * https://blog.abevoelker.com/why-i-dont-use-docker-much-anymore/
+  * http://robhirschfeld.com/2014/04/18/docker-real-or-hype/
+  * http://www.krisbuytaert.be/blog/docker-vs-reality-0-1
+  * http://www.ibuildthecloud.com/blog/2014/12/03/is-docker-fundamentally-flawed/

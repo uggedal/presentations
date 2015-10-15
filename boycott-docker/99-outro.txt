@@ -1,0 +1,12 @@
+
+  Containers er uansett obselete: unikernels er fremtiden
+  -------------------------------------------------------
+
+ "The most revered feature of the modern operating system is support
+  for running existing applications. Minimally implemented application
+  support is a few thousand lines of code plus the drivers, as we
+  demonstrated with the Rumprun unikernel. Therefore, there is no
+  reason to port and cram an operating system into every problem space."
+
+      Antti Kantee. "The Rise and Fall of the Operating System".
+      USENIX ;login: October 2015, Vol. 40, No. 5 

@@ -1,6 +1,6 @@
 
-	Containers er uansett obselete: unikernels er fremtiden
-	-------------------------------------------------------
+	Unikernels er fremtiden
+	-----------------------
 
 	"The most revered feature of the modern operating system is support
 	for running existing applications. Minimally implemented application

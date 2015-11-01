@@ -1,7 +1,6 @@
 
  "All problems in computer science can be solved by
   another level of indirection...
-
   Except for the problem of too many layers of indirection."
 
     David Wheeler

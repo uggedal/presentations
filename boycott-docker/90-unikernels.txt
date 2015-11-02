@@ -1,0 +1,7 @@
+
+  Unikernels
+  ----------
+
+  * Fremtiden?
+  * Fjerner deler av OS i motsetning til
+    √•legge til et lag opp√.

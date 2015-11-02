@@ -1,6 +1,6 @@
 
   Implementasjon
-  ==============
+  --------------
 
   * Master prosess, kj√rt som root
   * Kontrolleres via RPC HTTP grensesnitt

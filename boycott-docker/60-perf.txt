@@ -1,0 +1,9 @@
+
+  Ytelse
+  ------
+
+  * Kjappere enn VM?
+  	* clearlinux.org - VM booter på under 150ms
+  * Kjappere enn LXC?
+  	* Lagdeling og underliggende FS tenknologi
+	  ofte tregere enn naiv en/to-lags implementasjon

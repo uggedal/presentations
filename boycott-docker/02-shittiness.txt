@@ -2,5 +2,4 @@
  "Not even two dockers could contain the shittiness
   of this application."
 
-    Spooky Server, @sadserver,
     https://twitter.com/sadserver/status/625663479370883073

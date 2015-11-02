@@ -2,5 +2,4 @@
  "Containers will not fix your broken architecture.
   You are welcome."
 
-    Andrew Clay Shafer, @littleidea,
     https://twitter.com/littleidea/status/659445920954642432

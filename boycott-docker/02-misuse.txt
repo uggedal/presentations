@@ -1,0 +1,13 @@
+ 
+  Misbruk
+  =======
+
+ "Containers will not fix your broken architecture.
+  You are welcome."
+
+    https://twitter.com/littleidea/status/659445920954642432
+
+ "Not even two dockers could contain the shittiness
+  of this application."
+
+    https://twitter.com/sadserver/status/625663479370883073

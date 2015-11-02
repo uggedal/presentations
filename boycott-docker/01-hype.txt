@@ -1,0 +1,9 @@
+  Hype
+  ====
+
+ "Best features of Docker:
+  - Easy to get a project to the top of HackerNews
+  - New Github stars for old ideas
+  - Has lots of Twitter followers"
+
+    twitter.com/hipsterhacker/status/577587054642536449

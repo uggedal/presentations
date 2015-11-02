@@ -1,0 +1,9 @@
+
+  Implementasjon
+  ==============
+
+  * Master prosess, kj√rt som root
+  * Kontrolleres via RPC HTTP grensesnitt
+  	* Unix domain socket
+	* TCP
+  * Klient (fri flyt ved tilgang til socket/TCP)

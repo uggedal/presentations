@@ -2,7 +2,7 @@
   Implementasjon
   --------------
 
-  * Master prosess, kjÃrt som root
+  * Master prosess, kjørt som root
   * Kontrolleres via RPC HTTP grensesnitt
   	* Unix domain socket
 	* TCP

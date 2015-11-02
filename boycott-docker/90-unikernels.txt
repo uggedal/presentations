@@ -4,4 +4,4 @@
 
   * Fremtiden?
   * Fjerner deler av OS i motsetning til
-    Ã¥legge til et lag oppÃ.
+    å legge til et lag oppå.

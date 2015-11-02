@@ -1,0 +1,8 @@
+
+  distroer
+  --------
+
+  * Din app som PID 1
+  * Mainstream distroer ikke designet for det:
+    * Ubuntu: 187.9 MB
+	* Alpine: 5.2 MB

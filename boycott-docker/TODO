@@ -22,14 +22,6 @@ Innhold
 * vis min minimale implementasjon (mer generisk)
 * user namespace support:
   * https://github.com/docker/docker/blob/master/experimental/userns.md
-* sikkerhet
-  * antall kernel kodelinjer (og økning per release)
-  * namespaces etc kladdet på
-  * list relevante kernel CVE
-  * multi-tenant trenger vm uansett (google cloud etc))
-  * håndtering av sikekrhetsoppdateringer i container ikke løst
-    * vanskeligere enn før
-    * skal drift rebygge containere for deg?
 * open source
   * bidro tidlig da ting var mer eller mindre community drevet
   * for profit

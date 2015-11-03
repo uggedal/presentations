@@ -5,3 +5,5 @@
   o Din app
 
   o Ikke supervisord/runit/s6/etc
+
+  o Trenger du et OS: bruk LXC og la init(8) bli PID 1

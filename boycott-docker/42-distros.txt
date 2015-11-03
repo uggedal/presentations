@@ -10,7 +10,7 @@
     o Debian: 125.1 MB
 
   o Alternativ:
-	o Alpine: 5.2 MB
-	o Bygg din egen
-	  o buildroot.net
-	  o custom
+    o Alpine: 5.2 MB
+    o Bygg din egen
+      o buildroot.net
+      o custom

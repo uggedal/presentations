@@ -10,4 +10,3 @@
 	  o 2008: CLONE_NEWPID - prosess
 	  o 2009: CLONE_NEWNET - nettverk
 	  o 2012: CLONE_NEWUSER - bruker
-

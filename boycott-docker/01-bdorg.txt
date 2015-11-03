@@ -2,5 +2,5 @@
   boycottdocker.org
   -----------------
 
-  * Litt over kanten
-  * Enkelte bra poenger
+  o Litt over kanten
+  o Enkelte bra poenger

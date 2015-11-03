@@ -2,8 +2,8 @@
   Sikkerhet
   ---------
 
-  * Ressursoptimalisering - ikke sikkerhetsisolasjon!
-    * Linux kernel
-      * 4.3: 20 621 558 linjer
-    * Docker root daemon
-  * Sikkerhetsoppdateringer
+  o Ressursoptimalisering - ikke sikkerhetsisolasjon!
+    o Linux kernel
+      o 4.3: 20 621 558 linjer
+    o Docker root daemon
+  o Sikkerhetsoppdateringer

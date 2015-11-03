@@ -2,5 +2,5 @@
   PID 1
   -----
 
-  * Din app
-  * Ikke supervisord/runit/s6/etc
+  o Din app
+  o Ikke supervisord/runit/s6/etc

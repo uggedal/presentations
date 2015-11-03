@@ -2,14 +2,14 @@
   Distroer
   --------
 
-  * Mainstream distroer ikke designet for containere:
-	* Node:   642.2 MB
-	* Java:   641.9 MB
-    * Ubuntu: 187.9 MB
-    * CentOS: 172.3 MB
-    * Debian: 125.1 MB
-  * Alternativ:
-	* Alpine: 5.2 MB
-	* Bygg din egen
-	  * buildroot.net
-	  * custom
+  o Mainstream distroer ikke designet for containere:
+	o Node:   642.2 MB
+	o Java:   641.9 MB
+    o Ubuntu: 187.9 MB
+    o CentOS: 172.3 MB
+    o Debian: 125.1 MB
+  o Alternativ:
+	o Alpine: 5.2 MB
+	o Bygg din egen
+	  o buildroot.net
+	  o custom

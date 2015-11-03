@@ -2,8 +2,8 @@
   Implementasjon
   --------------
 
-  * Master prosess, kjørt som root
-  * Kontrolleres via RPC HTTP grensesnitt
-    * Unix domain socket
-    * TCP
-  * Klient (fri flyt ved tilgang til socket/TCP)
+  o Master prosess, kjørt som root
+  o Kontrolleres via RPC HTTP grensesnitt
+    o Unix domain socket
+    o TCP
+  o Klient (fri flyt ved tilgang til socket/TCP)

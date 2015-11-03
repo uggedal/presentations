@@ -2,6 +2,6 @@
   Unikernels
   ----------
 
-  * Fremtiden?
-  * Fjerner deler av OS i motsetning til
+  o Fremtiden?
+  o Fjerner deler av OS i motsetning til
     å legge til et lag oppå.

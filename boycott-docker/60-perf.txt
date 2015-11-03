@@ -9,4 +9,4 @@
       ren CPU utelse
   * Kjappere enn LXC?
     * Lagdeling og underliggende FS tenknologi
-    ofte tregere enn naiv en/to-lags implementasjon
+      ofte tregere enn naiv en/to-lags implementasjon

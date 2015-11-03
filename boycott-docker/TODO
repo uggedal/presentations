@@ -6,23 +6,10 @@ Innhold
 * Egnet for
 * Kompleksitet
 
-* historie (nevn årstall)
-  * ibm something
-  * freebsd jails
-  * solaris zones
-  * linux kernel support (kernel versjon for hver feature pluss år)
-    * namespaces
-      * hvorfor google implementerte det (effektivitet, ikke sikkerhet)
-    * ...
-  * lxc
-  * unshare
-  * docker
-  * mange lettvekst containere
 * bruk
   * same shit, different wrapping
   * --privileged=true
 * fyll inn med (og referer)
-  * https://www.andreas-jung.com/contents/the-case-against-docker
   * http://iops.io/blog/docker-hype/
   * https://blog.abevoelker.com/why-i-dont-use-docker-much-anymore/
   * http://robhirschfeld.com/2014/04/18/docker-real-or-hype/

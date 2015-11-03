@@ -2,7 +2,12 @@
   distroer
   --------
 
-  * Din app som PID 1
-  * Mainstream distroer ikke designet for det:
+  * Mainstream distroer ikke designet for containere:
     * Ubuntu: 187.9 MB
+    * CentOS: 172.3 MB
+    * Debian: 125.1 MB
+  * Alternativ:
 	* Alpine: 5.2 MB
+	* Bygg din egen
+	  * buildroot.net
+	  * custom

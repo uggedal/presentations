@@ -19,8 +19,6 @@ Innhold
   * unshare
   * docker
   * mange lettvekst containere
-* user namespace support:
-  * https://github.com/docker/docker/blob/master/experimental/userns.md
 * bruk
   * same shit, different wrapping
   * --privileged=true

@@ -1,0 +1,12 @@
+
+  Community
+  ---------
+
+  * Bidro selv i starten
+  * 1000+ åpne issues
+  * $$
+    * RedHat
+	* Microsoft
+  * CoreOS drama
+    * rktd
+	* opencontainers.org

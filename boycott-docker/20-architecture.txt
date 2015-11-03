@@ -1,6 +1,6 @@
 
-  Implementasjon
-  --------------
+  Arkitektur
+  ----------
 
   o Master prosess, kjørt som root
 

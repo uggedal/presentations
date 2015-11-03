@@ -39,11 +39,6 @@ Innhold
 * bruk
   * same shit, different wrapping
   * --privileged=true
-  * python pid 1? wtf!
-  * XMB ubuntu base image
-    * alpine
-    * buildroot
-    * ...
 * behov
   * JVM: "Write once, run anywhere"?
 * fyll inn med (og referer)

@@ -10,3 +10,12 @@
 	  o 2008: CLONE_NEWPID - prosess
 	  o 2009: CLONE_NEWNET - nettverk
 	  o 2012: CLONE_NEWUSER - bruker
+
+  o Control Groups (cgroups)
+
+	  o 2008: cpuset - pinning av CPU/minne-enheter
+	  o 2008: memory - begrense minne
+	  o 2008: devices - hviteliste enheter
+	  o 2010: blkio - disk I/O begrensning
+	  o 2012: net_prio - prioritering av nettverstrafikk
+	  o 2015: pids - antall prosesser

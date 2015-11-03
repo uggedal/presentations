@@ -5,6 +5,7 @@
   o LXC
 
   o Lettvektsløsninger:
+    o unshare(1)
     o github.com/arachsys/containers
 
   o Direkte i app server (uWSGI)

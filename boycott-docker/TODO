@@ -39,8 +39,6 @@ Innhold
 * bruk
   * same shit, different wrapping
   * --privileged=true
-* behov
-  * JVM: "Write once, run anywhere"?
 * fyll inn med (og referer)
   * http://sirupsen.com/production-docker/
   * https://www.andreas-jung.com/contents/the-case-against-docker

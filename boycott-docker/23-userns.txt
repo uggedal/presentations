@@ -10,6 +10,5 @@
 
   o LXC: støttet i over 2år
 
-  o Docker: eksperimentell (ubrukelig) versjon
-    tilgjengelig for noen dager siden
-    o Krever fortsatt root docker daemon...
+  o Docker: eksperimentell (ubrukelig) versjon tilgjengelig
+    forrige måned

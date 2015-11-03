@@ -1,0 +1,10 @@
+
+  Alternativer
+  ------------
+
+  o LXC
+
+  o Lettvektsløsninger:
+	  o github.com/arachsys/containers
+
+  o Direkte i app server (uWSGI)

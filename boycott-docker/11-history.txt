@@ -3,13 +3,16 @@
   ---------
 
   o 1967: virtuell maskin - IBM CP-40
+
   o 1979: chroot(2) - Version 7 AT&T UNIX
+
   o 2000: jail(2) - FreeBSD 4.0
   o 2001: VServer - Linux patchset
   o 2005: zones - Solaris 10
   o 2005: OpenVZ - Linux patchset
   o 2007: WPARs - IBM AIX 6.1
   o 2007: SRP - HP-UX 11i
+
   o 2008: LXC - Linux
   o 2009: Heroku - PaaS
   o 2010: dotCloud - PaaS

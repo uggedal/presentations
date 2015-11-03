@@ -12,7 +12,7 @@ int main(int argc, char ooargv)
 	uid_t uid = getuid();
 	uid_t gid = getgid();
 
-	unshare(CLONE_NEWUSER|CLONE_NEWNS|CLONE_NEWPID|CLONE_NEWUTS|CLONE_NEWIPC);
+	unshare(CLONE_NEWUSER|CLONE_NEWNS|CLONE_NEWPID|CLONE_NEWNET);
 
 	int fd = open("/proc/self/uid_map", O_RDWR);
 	dprintf(fd, "%u %u 1\n", 0, uid);

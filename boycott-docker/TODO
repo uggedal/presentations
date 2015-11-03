@@ -22,12 +22,6 @@ Innhold
 * vis min minimale implementasjon (mer generisk)
 * user namespace support:
   * https://github.com/docker/docker/blob/master/experimental/userns.md
-* open source
-  * bidro tidlig da ting var mer eller mindre community drevet
-  * for profit
-  * hype^2
-  * klarer ikke å ta imot bidrag/bug rapporter/innspill
-  * coreos/rocket/containers spec drama
 * bruk
   * same shit, different wrapping
   * --privileged=true

@@ -8,6 +8,7 @@
     o Ubuntu: 187.9 MB
     o CentOS: 172.3 MB
     o Debian: 125.1 MB
+
   o Alternativ:
 	o Alpine: 5.2 MB
 	o Bygg din egen

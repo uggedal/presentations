@@ -7,6 +7,7 @@
     o Hardware virtualisering + virtio er ofte
       raskere på IO/net mens litt tregere på
       ren CPU utelse
+
   o Kjappere enn LXC?
     o Lagdeling og underliggende FS tenknologi
       ofte tregere enn naiv en/to-lags implementasjon

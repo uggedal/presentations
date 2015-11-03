@@ -3,10 +3,13 @@
   ---------
 
   o Bidro selv i starten
+
   o 1000+ åpne issues
+
   o $$
     o RedHat
 	o Microsoft
+
   o CoreOS drama
     o rktd
 	o opencontainers.org

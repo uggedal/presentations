@@ -6,4 +6,5 @@
     o Linux kernel
       o 4.3: 20 621 558 linjer
     o Docker root daemon
+
   o Sikkerhetsoppdateringer

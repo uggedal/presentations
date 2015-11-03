@@ -3,11 +3,13 @@
   --------------
 
   o Fjerner nødvendlighet av root
+
   o Sikrere
+
   o Enklere
+
   o LXC: støttet i over 2år
+
   o Docker: eksperimentell (ubrukelig) versjon
     tilgjengelig for noen dager siden
     o Krever fortsatt root docker daemon...
-
-    

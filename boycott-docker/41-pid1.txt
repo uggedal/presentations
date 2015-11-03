@@ -1,0 +1,6 @@
+
+  PID 1
+  -----
+
+  * Din app
+  * Ikke supervisord/runit/s6/etc

@@ -8,8 +8,8 @@
 
   o $$
     o RedHat
-	o Microsoft
+    o Microsoft
 
   o CoreOS drama
     o rktd
-	o opencontainers.org
+    o opencontainers.org

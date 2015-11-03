@@ -4,5 +4,4 @@
 
   o Fremtiden?
 
-  o Fjerner deler av OS i motsetning til
-    å legge til et lag oppå.
+  o Fjerner deler av OS i motsetning til å legge til et lag over

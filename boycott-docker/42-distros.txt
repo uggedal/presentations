@@ -3,6 +3,7 @@
   --------
 
   * Mainstream distroer ikke designet for containere:
+	* Node:   642.2 MB
 	* Java:   641.9 MB
     * Ubuntu: 187.9 MB
     * CentOS: 172.3 MB

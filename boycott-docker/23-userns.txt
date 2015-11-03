@@ -1,0 +1,13 @@
+
+  User namespace
+  --------------
+
+  * Fjerner nødvendlighet av root
+  * Sikrere
+  * Enklere
+  * LXC: støttet i over 2år
+  * Docker: eksperimentell (ubrukelig) versjon
+    tilgjengelig for noen dager siden
+    * Krever fortsatt root docker daemon...
+
+    

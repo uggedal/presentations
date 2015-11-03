@@ -19,7 +19,6 @@ Innhold
   * unshare
   * docker
   * mange lettvekst containere
-* vis min minimale implementasjon (mer generisk)
 * user namespace support:
   * https://github.com/docker/docker/blob/master/experimental/userns.md
 * bruk

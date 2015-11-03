@@ -1,0 +1,13 @@
+
+  Linux
+  -----
+
+  o Utvidelser i clone(2) flag
+
+	  o 2002: CLONE_NEWNS - mount
+	  o 2006: CLONE_NEWUTS - hostname
+	  o 2006: CLONE_NEWIPC - SysV IPC / POSIX MQ
+	  o 2008: CLONE_NEWPID - prosess
+	  o 2009: CLONE_NEWNET - nettverk
+	  o 2012: CLONE_NEWUSER - bruker
+

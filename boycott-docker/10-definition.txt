@@ -1,3 +1,13 @@
 
   Containere
   ----------
+
+  o Ulike namespace i en kernel for at ulike
+    samlinger av prosesser kan kjøre
+	og kontrolleres uavhengig av hverandre:
+
+	o prosess (PID)
+	o nettverk
+	o mount
+	o brukere (UID/GID)
+	o ...

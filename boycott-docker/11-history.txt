@@ -1,0 +1,5 @@
+
+  Tidslinje
+  ---------
+
+  o 1979: chroot(2) - Version 7 AT&T UNIX

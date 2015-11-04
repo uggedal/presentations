@@ -5,8 +5,8 @@
   o Kjappere enn VM?
     o clearlinux.org - VM booter på under 150ms
     o Hardware virtualisering + virtio er generelt raskere på
-	  IO/net mens litt tregere på ren CPU ytelse
+      IO/net mens litt tregere på ren CPU ytelse
 
   o Kjappere enn LXC?
     o Lagdeling og underliggende FS tenknologi ofte tregere
-	  enn naiv en/to-lags implementasjon
+      enn naiv en/to-lags implementasjon

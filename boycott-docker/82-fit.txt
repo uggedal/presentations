@@ -1,0 +1,7 @@
+
+  Egnethet
+  --------
+
+  o Ikke putt alt i en docker container
+
+  o Docker gjør ikke filer obselete

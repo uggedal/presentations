@@ -9,7 +9,7 @@
 
   o Kveg vs kjæledyr
     o Er din app klar til å bli skutt i hodet
-	  på tilfeldige tidspunkt?
+      på tilfeldige tidspunkt?
 
   o Distribuert system vs failover
 

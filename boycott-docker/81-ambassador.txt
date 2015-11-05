@@ -6,5 +6,5 @@
     o --link er statisk
 
   o Løsning
-   o Ambassador container imellom
-   o All trafikk gjennom socat
+    o Ambassador container imellom
+    o All trafikk gjennom socat

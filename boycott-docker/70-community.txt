@@ -11,5 +11,5 @@
     o Microsoft
 
   o CoreOS drama
-    o rktd
+    o rkt
     o opencontainers.org

@@ -2,9 +2,12 @@
   PID 1
   -----
 
-  o Din app
+  o Upstream anbefaling
+    o Din app som PID 1
+    o Ikke supervisord/runit/s6/etc
 
-  o Ikke supervisord/runit/s6/etc
+  o Hva med zombie prosesser?
+    o Forby child prosessser?
 
   o Trenger du et OS
     o Bruk LXC og la init(8) bli PID 1

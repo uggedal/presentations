@@ -3,6 +3,7 @@
   ------------
 
   o Lagdeling og underliggende FS tenknologi (COW)
-    tregere enn naiv en/to-lags implementasjon (LXC)
+    tregere og bruker ofte mer plass enn naiv en/to-lags
+	implementasjon (LXC)
 
   o Manglende garbage collection

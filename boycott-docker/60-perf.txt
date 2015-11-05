@@ -8,5 +8,6 @@
       IO/net mens litt tregere på ren CPU ytelse
 
   o Kjappere enn LXC?
-    o Lagdeling og underliggende FS tenknologi ofte tregere
-      enn naiv en/to-lags implementasjon
+    o Docker trenger ikke starte init med oppstartsscript
+    o I bredre distroer er disse optimalisert for
+	  container bruk

@@ -4,4 +4,11 @@
 
   o Ikke putt alt i en docker container
 
+  o Dockerizing
+    o Antipattern
+
+  o Kveg vs kjæledyr
+    o Er din app klar til å bli skutt i hodet
+	  på tilfeldige tidspunkt?
+
   o Docker gjør ikke tar obselete

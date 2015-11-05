@@ -9,9 +9,6 @@
   o Hva med zombie prosesser?
     o Forby child prosessser?
 
-  o Dockerizing
-    o Antipattern
-
   o Trenger du et OS
     o Bruk LXC og la init(8) bli PID 1
     o Få med cron(8) og syslogd(8) på kjøpet

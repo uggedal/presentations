@@ -10,4 +10,4 @@
   o Kjappere enn LXC?
     o Docker trenger ikke starte init med oppstartsscript
     o I bredre distroer er disse optimalisert for
-	  container bruk
+      container bruk

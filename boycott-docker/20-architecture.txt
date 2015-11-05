@@ -1,5 +1,5 @@
 
-  Docker Arkitektur
+  Docker arkitektur
   -----------------
 
   o Master prosess, kjørt som root

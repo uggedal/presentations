@@ -5,3 +5,8 @@
   o Fremtiden?
 
   o Fjerner deler av OS i motsetning til å legge til et lag over
+
+    o Mindre
+    o Sikrere
+    o Kjappere
+    o Mer effektivt

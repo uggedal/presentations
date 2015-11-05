@@ -1,0 +1,12 @@
+
+  o Container specifications      o Service discovery
+  o Container runtimes            o Dynamic config management
+  o Container management          o Container orchestration plattforms
+  o Container definition          o Hosted container platforms
+  o Registries                    o Container platform management
+  o Container OS                  o Container-based PaaS
+  o VM management                 o Networking
+  o Scheduling                    o Monitoring
+  o Cluster definition            o Data layer
+  o Security                      o Continous integration/deployment
+  o Log management                o Getting started aides

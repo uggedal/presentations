@@ -1,0 +1,5 @@
+
+  Slides
+  ------
+
+  o http://git.uggedal.com/presentations/tree/boycott-docker

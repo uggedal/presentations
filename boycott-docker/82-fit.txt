@@ -13,4 +13,6 @@
 
   o Distribuert system vs failover
 
+  o Stateless vs stateful
+
   o Docker gjør ikke tar obselete

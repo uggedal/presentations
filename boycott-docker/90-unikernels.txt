@@ -10,3 +10,9 @@
     o Sikrere
     o Kjappere
     o Mer effektivt
+
+  o Rumprun
+    o NetBSD
+
+  o MirageOS
+    o OCaml

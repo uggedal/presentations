@@ -1,0 +1,19 @@
+  Open Container Spec, Open Container Initiaitve, Docker, CoreOS, AppC,
+  runc, libcontainer, rkt, Docker Engine, Docker daemon, Docker client,
+  rkt CLI, Docker Image, Dockerfile, ACI (App Container Image),
+  Docker Registry, Amazon EC2 Container Registry, Docker Hub, Google
+  Container Registry, Quay.io, Docker Trusted Registry, CoreOs Enterprise
+  Registry, boot2docker, RancherOS, Project Atomic, Ubuntu Core "Snappy",
+  SmartOS, Photon OS, Docker Machine, Hashicorp Vagrant, Hashicorp Otto,
+  Docker Swarm, fleet, Chronos, Docker Compose, fleet unit file, etcd,
+  Marathon, Hashicorp Consul, Apache ZooKeeper, confd, Consul Template,
+  Apache Mesos, Kubernetes, Hashicorp Nomad, Amazon EC2 Container
+  Service (ECS), Google Container Engine, Tutum, RedHat Openshift,
+  Joyent Triton, Giant Swarm, ProfitBricks, Modulus, Project Orca,
+  Rancer, ContainerShip, panamax, Shipyard, Joyent SmartDataCenter,
+  Mesosphere DCOS, CoreOS Tectonic, Nirmata, ContainerShip Enterprise,
+  StackEngine, AppFormix, Deis, Flynn, RedHat Openshift Origin, Cisco
+  Mantl, Deis Dokku, Docker port expose, Docker linking, libnetwork,
+  flannel, Weave, Calico, Docker stats API, sysdig, cAdvisor, Weave
+  Scope, Sysdig Cloud, ClusterHQ Flocker, Docker logs, logspout,
+  Shippable, Wercker, Twistlock, Scarlock, Conjur, Docker Kinematic

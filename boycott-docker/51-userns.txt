@@ -2,7 +2,7 @@
   User namespace
   --------------
 
-  o Fjerner nødvendlighet av root
+  o Fjerner nødvendighet av root
 
   o Sikrere
 

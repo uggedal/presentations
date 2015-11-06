@@ -18,4 +18,4 @@
 
   o Distribuert system vs failover
 
-  o Docker gjør ikke tar obselete
+  o Docker gjør ikke tar(1) obselete

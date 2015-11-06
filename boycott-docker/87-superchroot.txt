@@ -7,7 +7,7 @@
 #include <fcntl.h>
 #include <sys/mount.h>
 
-int main(int argc, char ooargv)
+int main(int argc, char argv)
 {
 	uid_t uid = getuid();
 	uid_t gid = getgid();

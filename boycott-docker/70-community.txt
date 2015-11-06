@@ -6,7 +6,7 @@
 
   o 1000+ åpne issues
 
-  o $$
+  o $$$
     o RedHat
     o Microsoft
 

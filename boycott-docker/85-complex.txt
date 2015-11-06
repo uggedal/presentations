@@ -3,6 +3,3 @@
   ------------
 
   o Docker engine: 580 511 linjer
-
-  o Hvorfor må din app containes?
-    o Er den for kompleks å håndtere uten enda et lag?

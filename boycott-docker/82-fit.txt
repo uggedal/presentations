@@ -5,7 +5,7 @@
   o Ikke putt alt i en docker container
 
   o Hvorfor må din app containes?
-    o Er den for kompleks å håndtere uten enda et lag?
+    o Er den for kompleks til å håndteres uten?
 
   o Dockerizing
     o Antipattern

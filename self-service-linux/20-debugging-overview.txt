@@ -1,0 +1,9 @@
+Debugging overview
+==================
+
+o /proc
+o strace
+o ltrace
+o gdb
+
+o perf et. al. ?

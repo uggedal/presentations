@@ -5,7 +5,11 @@ Essentials:
 
 o kernel: linux
 o libc: glibc, uclibc, musl
-o ...
+o init: SysV, upstart, systemd, daemontools/runit/s6, sinit
+o shell: posix sh (dash), ksh (pdksh, mksh), bash
+o utils: GNU coreutils, busybox, toybox, sbase/ubase
+o 
+o 
 
 Self-hosting:
 

@@ -1,0 +1,6 @@
+Self Service Linux
+==================
+
+o Linux building blocks
+o Overview of linux debugging
+o Hands on linux debugging

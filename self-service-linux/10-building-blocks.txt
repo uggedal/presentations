@@ -1,0 +1,28 @@
+Building blocks
+===============
+
+Essentials:
+
+o kernel: linux
+o libc: glibc, uclibc, musl
+o ...
+
+Self-hosting:
+
+o c compiler: gcc
+o linker: binutils
+o build: GNU make, autotools (autoconf, autmake, libtool),
+  cmake, pkg-config
+
+Server:
+
+o ...
+
+Desktop:
+
+o X: xorg
+o ...
+
+Web:
+
+o ...

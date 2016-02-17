@@ -1,5 +1,5 @@
 Not covered
 ===========
 
-o perf
+o kernel profiling/tracing: perf
 o network

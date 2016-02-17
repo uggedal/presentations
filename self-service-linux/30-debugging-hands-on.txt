@@ -18,3 +18,35 @@ sbase
 	cd sbase
 	make
 	./ls
+
+	nm ls
+
+	# LDFLAGS: -s
+	vi config.mk
+	make
+
+	gdb ./ls
+	run .
+	b usage
+	run -x
+	list
+
+	# CFLAGS: -g
+	vi config.mk
+	make
+
+	gdb ./ls
+	run .
+	b usage
+	run -x
+	list
+	s
+	backtrace
+	list
+	print fmt
+	n
+	s
+	finish
+	n
+
+	gdb -tui ./ls

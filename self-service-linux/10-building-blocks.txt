@@ -1,6 +1,18 @@
 Building blocks
 ===============
 
+Distributions
+-------------
+
+o kernel
+o third party packages
+o custom packages
+o build system
+o packaging system
+
+Packages
+--------
+
 Essentials:
 
 o kernel: linux
@@ -54,3 +66,8 @@ o libraries: alsa-lib, gtk3, nss, sqlite, libx11, ffmpeg, icu, cairo,
   pixman, pango, libjpeg, librsvg, libpng,
   libxft, fontconfig, freetype2, harfbuzz, graphite,
   libgl, libdrm, libpciaccess
+
+Example
+-------
+
+	apt --installed list

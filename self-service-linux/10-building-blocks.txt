@@ -71,3 +71,5 @@ Example
 -------
 
 	apt --installed list
+
+	find /

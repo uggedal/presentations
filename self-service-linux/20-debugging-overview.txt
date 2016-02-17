@@ -57,3 +57,18 @@ lsof
 	ls /proc/1
 
 	cat /proc/cmdline
+
+dmesg
+-----
+
+o kernel log buffer
+
+/var/log
+--------
+
+	tail /var/log/messages
+
+	ls /var/log
+
+	logger TESTING
+	tail /var/log/user.log

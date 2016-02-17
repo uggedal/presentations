@@ -73,3 +73,13 @@ Example
 	apt --installed list
 
 	find /
+
+	dpkg-query -L dash
+
+	dpkg-query -S /bin/sh
+
+	man man
+
+	man intro
+
+	man sh

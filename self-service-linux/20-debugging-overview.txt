@@ -23,7 +23,37 @@ strace
 
 	man strace
 
+ltrace
+------
+
+	ltrace ls
+
+ps / pstree / top
+-----------------
+
+	ps
+	ps x
+	ps xa
+
+	pstree
+
+	top
+
 lsof
 ----
 
 	lsof -u $(id -u)
+
+	less ~/.profile
+	CTRL-Z
+	lsof ~/.profile
+	fg
+
+/proc
+-----
+
+	ls /proc/self
+
+	ls /proc/1
+
+	cat /proc/cmdline

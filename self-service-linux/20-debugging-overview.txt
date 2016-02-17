@@ -3,8 +3,13 @@ Debugging overview
 
 o strace
 o ltrace
+o ps
+o pstree
+o top
+o lsof
 o /proc
-o gdb
+o dmesg
+o /var/log
 
 strace
 ------
@@ -17,3 +22,8 @@ strace
 	strace sh -c 'echo a; (echo b)'
 
 	man strace
+
+lsof
+----
+
+	lsof -u $(id -u)

@@ -9,4 +9,12 @@ o nm
 o readelf
 o gdb
 
+sbase
+-----
 
+	apt-get source coreutils
+
+	git clone /usr/local/src/sbase
+	cd sbase
+	make
+	./ls

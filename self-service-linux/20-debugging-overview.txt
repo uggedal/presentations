@@ -61,7 +61,7 @@ lsof
 dmesg
 -----
 
-o kernel log buffer
+	dmesg
 
 /var/log
 --------

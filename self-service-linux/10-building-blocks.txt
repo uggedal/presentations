@@ -10,6 +10,27 @@ o custom packages
 o build system
 o packaging system
 
+Filesystem
+----------
+
+o /etc
+o /(s)bin
+o /lib
+o /usr
+  o /usr/(s)bin
+  o /usr/include
+  o /usr/lib
+  o /usr/local
+    o /usr/local/(s)bin
+    o /usr/local/man
+  o /usr/share
+    o /usr/share/man
+o /tmp
+o /var
+  o /var/cache
+  o /var/log
+
+
 Packages
 --------
 

@@ -4,12 +4,26 @@ Building blocks
 Essentials:
 
 o kernel: linux
+o boot: syslinux, grub, efibootmgr
 o libc: glibc, uclibc, musl
 o init: SysV, upstart, systemd, daemontools/runit/s6, sinit
 o shell: posix sh (dash), ksh (pdksh, mksh), bash
-o utils: GNU coreutils, busybox, toybox, sbase/ubase
-o 
-o 
+o base utils: GNU coreutils, util-linux, busybox, toybox, sbase/ubase,
+  findutils, GNU awk, GNU sed, kmod, shadow, psmisc, procps-ng
+o general utils: less, vi, nano, file, screen, tmux
+o networking utils: dhclient, inetutils, iproute2, iputils, net-tools,
+  bridge-utils, wget, rsync, iptables, nftables
+o filesystem utils: e2fsprogs, btrfs-progs, xfsprogs, dosfstools,
+  lvm2, device-mapper, dmraid, mdadm, fdisk, gdisk
+o compression utils: tar, gzip, bzip2, xz
+o hardware utils: pciutils, usbutils, cpupower, ethtool, hdparm
+o libraries: openssl, gnutls, libgcrypt, ncurses, pcre, libcurl,
+  libidn, libarchive, zlib, db (Berkley DB), pam, glib, expat, libxml2
+  libevent, readline
+o data: tzdata, iana-etc, hwids, ca-certifiates, dnssec-anchors
+o language runtimes: perl, python, lua
+o package manager: apt, rpm, apk
+o documentation: man, info
 
 Self-hosting:
 
@@ -20,13 +34,23 @@ o build: GNU make, autotools (autoconf, autmake, libtool),
 
 Server:
 
-o ...
+o logging: syslogd, journald
+o remote connection: openssh, dropbear
+o http: nginx, apache
 
-Desktop:
+Desktop/laptop:
 
-o X: xorg
-o ...
+o display server: xorg
+o window manager: fluxbox, i3, dwm
+o desktop environment: kde, gnome, xfce, lumina
+o data: dejavu
+o wireless utils: iw, wpa_supplicant, wireless_tools, crda, rfkill
+o firmware: wireless
 
 Web:
 
-o ...
+o web browser: chromium, firefox, vimb
+o libraries: alsa-lib, gtk3, nss, sqlite, libx11, ffmpeg, icu, cairo,
+  pixman, pango, libjpeg, librsvg, libpng,
+  libxft, fontconfig, freetype2, harfbuzz, graphite,
+  libgl, libdrm, libpciaccess

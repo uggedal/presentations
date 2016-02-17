@@ -2,7 +2,7 @@ Debugging hands on
 ==================
 
 o file
-o lld
+o ldd
 o objdump
 o strings
 o nm
@@ -50,3 +50,7 @@ sbase
 	n
 
 	gdb -tui ./ls
+	b 128
+	info breakpoints
+	run ls.c
+	run -l ls.c

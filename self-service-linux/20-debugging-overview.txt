@@ -1,9 +1,19 @@
 Debugging overview
 ==================
 
-o /proc
 o strace
 o ltrace
+o /proc
 o gdb
 
-o perf et. al. ?
+strace
+------
+
+	strace ls
+
+	man 2 openat
+	man 2 getdents
+
+	strace sh -c 'echo a; (echo b)'
+
+	man strace
